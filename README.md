@@ -1,4 +1,4 @@
-# adhd-scheduler
+# task-scheduler
 Tool for task management.
     Add and complete tasks, 
     prioritize tasks based on time constraints,
