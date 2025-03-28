@@ -8,7 +8,7 @@ Tool for task management.
 
 In future releases, AI integration will be added, running locally on a device's NPU or GPU.
 
-The job of the AI is to allow the app to learn how the user handles tasks and to monitor the users mental state through changes in task completion. This, in turn, allows the
+The job of the AI is to allow the app to learn how the user handles tasks and to monitor the user through changes in task completion. This, in turn, allows the
 application to adjust to the user and ensure a healthy workflow while preventing burnout.
 
 
